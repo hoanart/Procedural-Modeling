@@ -1,2 +1,2 @@
 # Procedural-Modeling
- Make procedural mesh
+ Make basic procedural mesh
