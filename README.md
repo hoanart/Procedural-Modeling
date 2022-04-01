@@ -1,2 +1,2 @@
-# Procedural-Rope
- Make procedural rope
+# Procedural-Modeling
+ Make procedural mesh
