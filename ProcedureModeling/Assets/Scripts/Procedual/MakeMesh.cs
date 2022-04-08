@@ -76,9 +76,9 @@ public class MakeMesh : MonoBehaviour
         int[] triangles = new int[3];
 
         //each of vertices has location.
-        vertices[0] = new Vector3(0, 1, 0);
-        vertices[1] = new Vector3(1, 1, 0);
-        vertices[2] = new Vector3(0, 0, 0);
+        vertices[0] = new Vector3(-1, 1, 0);
+        vertices[1] = new Vector3(0, 1, 0);
+        vertices[2] = new Vector3(-1, 0, 0);
 
         
         //uv coordinates have range from 0 to 1.
